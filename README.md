@@ -14,3 +14,7 @@ Trace exportado para o Grafana Tempo:
 Logs exportados para o Grafana Loki:
 
 ![Logs no Grafana Loki](img/loki-01.png)
+
+Métricas no Prometheus:
+
+![Métricas no Prometheus](img/prometheus-01.png)
