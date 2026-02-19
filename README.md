@@ -10,3 +10,7 @@ Executando funções de consulta ao banco de dados e do MCP Server de contagem d
 Trace exportado para o Grafana Tempo:
 
 ![Trace no Grafana Tempo](img/tempo-01.png)
+
+Logs exportados para o Grafana Loki:
+
+![Logs no Grafana Loki](img/loki-01.png)
