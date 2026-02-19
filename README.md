@@ -7,3 +7,6 @@ Executando funções de consulta ao banco de dados e do MCP Server de contagem d
 
 ![Console App](img/consoleapp-01.png)
 
+Trace exportado para o Grafana Tempo:
+
+![Trace no Grafana Tempo](img/tempo-01.png)
